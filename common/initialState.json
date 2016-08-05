@@ -1,0 +1,7 @@
+{
+	"slider" : {
+		"graphValue" : 0,
+		"autoPlay" : false,
+		"upperBound": 4
+	}
+ }

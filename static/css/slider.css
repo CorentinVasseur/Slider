@@ -1,0 +1,8 @@
+.time-slider .buttons-panel {
+  margin-top: 10px;
+}
+
+.time-slider .buttons-panel i {
+  margin-right: 20px;
+  cursor: pointer;
+}
